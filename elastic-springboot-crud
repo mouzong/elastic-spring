@@ -1,6 +1,4 @@
-D'accord ! Si les documents à indexer sont des fichiers uploadés, nous devons modifier un peu l'implémentation pour gérer les fichiers, extraire leur contenu et les indexer dans ElasticSearch. Voici comment vous pouvez le faire :
-
-### Configuration `pom.xml`
+## Configuration `pom.xml`
 
 Assurez-vous d'avoir les dépendances nécessaires :
 
