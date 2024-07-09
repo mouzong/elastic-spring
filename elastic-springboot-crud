@@ -212,5 +212,3 @@ public class DocumentControllerTest {
 4. **Service** : Gestion de la logique métier, extraction de contenu de fichiers avec Tika.
 5. **Controller** : Gestion des endpoints pour l'upload et la recherche.
 6. **Tests Unitaires** : Vérification du bon fonctionnement des fonctionnalités.
-
-Ce code complet permet d'uploader des fichiers, de les indexer dans ElasticSearch et de rechercher dans leur contenu.
